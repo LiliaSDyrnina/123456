@@ -1,5 +1,7 @@
 123
 345
+<<<<<<< HEAD
 returning from the branch1
 12345678
+123
 
